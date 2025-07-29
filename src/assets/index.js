@@ -25,10 +25,15 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import NavikaTech from './company/NavikaTech.png'
+import CodSoft from './company/CodSoft.avif'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import BookKart from './BookKart.png';
+import Movie from './Movie.png';
+import Expense from './Expense.png';
 
 export {
   logo,
@@ -56,7 +61,12 @@ export {
   shopify,
   starbucks,
   tesla,
+  NavikaTech,
+  CodSoft,
   carrent,
+  BookKart,
+  Movie,
+  Expense,
   jobit,
   tripguide,
 };
